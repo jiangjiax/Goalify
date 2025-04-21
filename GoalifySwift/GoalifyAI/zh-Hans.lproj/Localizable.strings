@@ -1,0 +1,4 @@
+"signInWithApple" = "使用 Apple 登录";
+"signOut" = "退出登录";
+"confirmSignOut" = "确认退出登录";
+"signOutMessage" = "您确定要退出当前账号吗？"; 

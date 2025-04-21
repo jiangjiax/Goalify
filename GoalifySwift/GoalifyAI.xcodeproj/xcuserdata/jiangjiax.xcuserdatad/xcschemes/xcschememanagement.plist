@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FocusActivityWidgetExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>FocusWidgetExtension copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>FocusWidgetExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>GoalifyAI copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>GoalifyAI.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E9211FEE2D9ECD0E0097EDB6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E948995B2D7EFB07006D66B8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E948996D2D7EFB09006D66B8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E94899772D7EFB09006D66B8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9E022422D929A08002A92EE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
